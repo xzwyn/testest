@@ -1,0 +1,12 @@
+openai
+azure-core
+python-dotenv
+
+# Libraries for data handling and calculations
+numpy
+scikit-learn
+tqdm
+
+# Libraries for dataframes and writing Excel files
+pandas
+openpyxl
